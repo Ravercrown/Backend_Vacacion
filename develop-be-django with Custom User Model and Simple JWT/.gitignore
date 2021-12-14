@@ -1,0 +1,6 @@
+# Develop environment
+/env/
+# BD used for develop
+db.sqlite3
+# Cache
+__pycache__
